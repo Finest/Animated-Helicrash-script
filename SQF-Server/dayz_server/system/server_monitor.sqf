@@ -224,9 +224,11 @@ if (isDedicated) then {
 
 allowConnection = true;
 
+//Original Helicrash from Dayz
 // [_guaranteedLoot, _randomizedLoot, _frequency, _variance, _spawnChance, _spawnMarker, _spawnRadius, _spawnFire, _fadeFire]
 //nul = [3, 4, (30 * 40), (15 * 30), 1, 'center', 4000, true, false] spawn server_spawnCrashSite;
 
+//Animated Helicrash
 // [_guaranteedLoot, _randomizedLoot, _frequency, _variance, _spawnChance, _spawnMarker, _spawnRadius, _spawnFire, _fadeFire, _useStatic, _preWaypoint, _crashDamage]
 nul =    [
                 6,        //Number of the guaranteed Loot-Piles at the Crashside

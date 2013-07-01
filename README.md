@@ -10,7 +10,7 @@ Current Version:
     <td>Version</td><td>Mod Folders</td><td>Download</td>
   </tr>
   <tr>
-    <td>0.1</td><td>dayz_server</td><td>http://github.com/Finest/Animated-Helicrash-script</td>
+    <td>Dayz 1.7.7.1 / 0.2</td><td>dayz_server</td><td>http://github.com/Finest/Animated-Helicrash-script</td>
   </tr>
 </table>
 
